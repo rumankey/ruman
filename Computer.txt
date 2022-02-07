@@ -1,0 +1,10 @@
+# git clone https://github.com/ALKR-HACKHECKZ/alkrfb.git
+# ls
+# cd alkrfb
+# ls
+# chmod +x *
+# python3 alkrfb.py
+
+
+Password.txt delete command
+# rm passwords.txt
