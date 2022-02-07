@@ -1,0 +1,2 @@
+# ruman
+kali linux
